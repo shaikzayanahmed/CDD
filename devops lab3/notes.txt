@@ -1,0 +1,4 @@
+Branching and Merging Notes
+Author: Shaik Zayan Ahmed
+Feature branches: feature-login, feature-signup
+Version 1.0
