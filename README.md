@@ -1,7 +1,7 @@
 # Collaborative Development and DevOps (CDD) Laboratory
 
 **Student Name**: Shaik Zayan Ahmed  
-**USN**: 4ik25cs183  
+**USN**: 4IK25CS183  
 **Course Code**: 1BCS303  
 **Repository**: [shaikzayanahmed/CDD](https://github.com/shaikzayanahmed/CDD)  
 
@@ -43,7 +43,7 @@ CDD/
 ├── login.txt                   # Exp 5: Login module feature file
 ├── login1.txt                  # Exp 3: Feature login module
 ├── signup.txt                  # Exp 3: Feature signup module
-└── DevOps_Report_Shaik_Zayan_Ahmed_4ik25cs183.docx # Full Laboratory Report
+└── DevOps_Report_Shaik_Zayan_Ahmed_4IK25CS183.docx # Full Laboratory Report
 ```
 
 ---
@@ -65,4 +65,4 @@ CDD/
 
 ## 📜 Complete Laboratory Report
 The official report formatted to university specifications is available in the repository root:
-👉 **[DevOps_Report_Shaik_Zayan_Ahmed_4ik25cs183.docx](DevOps_Report_Shaik_Zayan_Ahmed_4ik25cs183.docx)**
+👉 **[DevOps_Report_Shaik_Zayan_Ahmed_4IK25CS183.docx](DevOps_Report_Shaik_Zayan_Ahmed_4IK25CS183.docx)**

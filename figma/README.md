@@ -1,7 +1,7 @@
 # Experiment 8: Collaborative UI/UX Prototyping Using Figma
 
 **Student Name**: Shaik Zayan Ahmed  
-**USN**: 4ik25cs183  
+**USN**: 4IK25CS183  
 **Course Code**: 1BCS303 - Collaborative Development and DevOps (CDD)  
 
 ---

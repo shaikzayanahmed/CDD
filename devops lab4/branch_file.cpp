@@ -1,6 +1,6 @@
 /**
  * CDD Lab - Experiment 4: Branching and Merging
- * Author: Shaik Zayan Ahmed (USN: 4ik25cs183)
+ * Author: Shaik Zayan Ahmed (USN: 4IK25CS183)
  * Description: Source file created on a feature branch to demonstrate
  * isolated feature development, remote branch publishing, and branch merging.
  */

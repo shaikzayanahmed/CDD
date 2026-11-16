@@ -1,4 +1,4 @@
 DevOps Lab 2: Repository Synchronization (Push, Fetch, Pull)
 Author: Shaik Zayan Ahmed
-USN: 4ik25cs183
+USN: 4IK25CS183
 Remote URL: https://github.com/shaikzayanahmed/CDD.git

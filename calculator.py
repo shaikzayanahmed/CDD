@@ -1,5 +1,5 @@
 # Calculator Module for GitHub Actions CI
-# Author: Shaik Zayan Ahmed (4ik25cs183)
+# Author: Shaik Zayan Ahmed (4IK25CS183)
 
 def add(a, b):
     return a + b
